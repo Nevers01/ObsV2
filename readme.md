@@ -1,8 +1,9 @@
 # OBS_Basic V2 (Öğrenci Bilgi Sistemi - Versiyon 2)
 
-> ⚠️ Not: Bu proje henüz tamamlanmamıştır. Geliştirme süreci devam etmektedir.
+> ⚠️ **Not:** Bu proje henüz tamamlanmamıştır. Geliştirme süreci aktif olarak devam etmektedir.
 
-OBS_Basic V2, masaüstü tabanlı bir öğrenci bilgi sistemidir. C# ve WinForms ile geliştirilmiş olup, öğretmen ve öğrenci rollerine göre ayrı paneller sunar.
+**OBS_Basic V2**, C# ve WinForms kullanılarak geliştirilmiş masaüstü tabanlı bir öğrenci bilgi sistemidir. Proje, öğretmen (admin) ve öğrenci rolleri için ayrı kullanıcı panelleri sunar. Kullanımı kolay ve sade bir arayüzle, temel öğrenci yönetimi işlemlerini gerçekleştirmeyi amaçlamaktadır.
+
 
 ---
 
