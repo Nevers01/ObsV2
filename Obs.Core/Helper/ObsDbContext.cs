@@ -18,7 +18,7 @@ namespace Obs.Core.Helper
             if (!optionsBuilder.IsConfigured)
             {
                 // Buraya kendi bağlantı cümleni yaz
-                optionsBuilder.UseSqlServer("Server=141.98.112.152;Database=OBS;User Id=Nevers;Password=Nevers231_;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("YOUR_CONNECTION_STRING_HERE");
             }
         }
 
